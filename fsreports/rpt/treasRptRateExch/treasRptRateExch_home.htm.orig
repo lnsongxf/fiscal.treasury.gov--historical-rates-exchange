@@ -1,0 +1,487 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Treasury Reporting Rates of Exchange</title>
+<link href="/css/fs_screen.css" rel="stylesheet" type="text/css" />
+<script src="/js/jquery-1.8.3.min.js"></script>
+<script src="/js/menu.js"></script>
+<!-- jQuery (required) -->
+	<script src="/js/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="/js/jquery.min.js"><\/script>')</script>
+
+<!--[if lte IE 9]>
+		<style>#search .button {float: left; margin: 0;padding: 10px 0 0 3px;}</style>
+	<![endif]-->
+
+    <!--[if lte IE 7]>
+		<style>.header #mainNav {display: inline;}</style>
+	<![endif]-->
+
+<!-- Flyout menu -->
+<script type="text/javascript">
+        <!--
+        $(document).ready(function(){
+
+	// Remove the class of child and grandchild
+	// This removes the CSS 'falback'
+	$("#mainNav ul.child").removeClass("child");
+	$("#mainNav ul.grandchild").removeClass("grandchild");
+
+	// When a list item that contains an unordered list
+	// is hovered on
+	$("#mainNav li").has("ul").hover(function(){
+
+		//Add a class of current and fade in the sub-menu
+		$(this).addClass("current").children("ul").fadeIn();
+	}, function() {
+
+		// On mouse off remove the class of current
+		// Stop any sub-menu animation and set its display to none
+		$(this).removeClass("current").children("ul").stop(true, true).css("display", "none");
+	});
+
+});
+		-->
+    </script>
+
+<!-- START Fiscal Service Site Analytics -->
+
+<!-- START OF SmartSource Data Collector TAG v10.4.1 -->
+<!-- Copyright (c) 2014 Webtrends Inc.  All rights reserved. -->
+<script>
+window.webtrendsAsyncInit=function(){
+    var dcs=new Webtrends.dcs().init({
+        dcsid:"dcs0mv2cn000000om5qh0n5kd_8d8g",
+        domain:"sdc.fiscal.treasury.gov",
+        timezone:-5,
+        i18n:true,
+        download:true,
+        downloadtypes:"xls,doc,pdf,txt,csv,zip,docx,xlsx,rar,gzip,doc,exe",
+        anchor:true,
+        fpcdom:".fiscal.treasury.gov",
+        plugins:{
+            //hm:{src:"//s.webtrends.com/js/webtrends.hm.js"}
+        }
+        }).track();
+};
+(function(){
+    var s=document.createElement("script"); s.async=true; s.src="/js/webtrends.min.js";    
+    var s2=document.getElementsByTagName("script")[0]; s2.parentNode.insertBefore(s,s2);
+}());
+</script>
+<noscript><img alt="dcsimg" id="dcsimg" width="1" height="1" src="//sdc.fiscal.treasury.gov/dcs0mv2cn000000om5qh0n5kd_8d8g/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.4.1&amp;dcssip=www.fiscal.treasury.gov"/></noscript>
+<!-- END OF SmartSource Data Collector TAG v10.4.1 -->
+<!-- BEGIN DAP Analytics -->
+<script language="javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=TRE&subagency=FS"></script>
+<!-- END DAP Analytics -->
+<!-- END Fiscal Service Site Anayltics -->
+
+<script type="text/javascript">
+    // Instructions: please embed this snippet directly into every page in your website template.
+    // For optimal performance, this must be embedded directly into the template, not referenced
+    // as an external file.
+
+    // Answers Cloud Services Embed Script v1.02
+    // DO NOT MODIFY BELOW THIS LINE *****************************************
+    ;(function (g) {
+        var d = document, i, am = d.createElement('script'), h = d.head || d.getElementsByTagName("head")[0],
+                aex = {
+                    "src": "//gateway.answerscloud.com/fiscal-treasury-gov/production/gateway.min.js",
+                    "type": "text/javascript",
+                    "async": "true",
+                    "data-vendor": "acs",
+                    "data-role": "gateway"
+                };
+        for (var attr in aex) { am.setAttribute(attr,aex[attr]); }
+        h.appendChild(am);
+        g['acsReady'] = function () {var aT = '__acsReady__', args = Array.prototype.slice.call(arguments, 0),k = setInterval(function () {if (typeof g[aT] === 'function') {clearInterval(k);for (i = 0; i < args.length; i++) {g[aT].call(g, function(fn) { return function() { setTimeout(fn, 1) };}(args[i]));}}}, 50);};
+    })(window);
+    // DO NOT MODIFY ABOVE THIS LINE *****************************************
+</script>
+
+<!-- END Fiscal Service Site Analytics -->
+ </head>
+<body>
+
+
+
+
+
+<div id="topDiv">
+  <div id="welcomeText">
+    <ul>
+      <li><a href="/fsfaq/fs_how_do_i.htm">Introduction to Fiscal</a>
+        <ul>
+          <li><a href="/fsfaq/fs_how_do_i.htm">1<sup>st</sup> Time Visitors</a></li>
+          <li><a href="/fsfaq/fs_doing_business.htm">Doing Business with Fiscal Service</a></li>
+          <li><a href="/fsfaq/fs_gifts_to_govt.htm">Gifts to the U.S. Government</a></li>
+          <li><a href="/fsfaq/fs_faqs.htm">FAQ</a></li>
+        </ul>
+      </li>
+      <li><a href="/fscareers/fs_careers.htm">Careers</a>
+        <ul>
+          <li><a href="/fscareers/fs_employment.htm">Employment Opportunities</a></li>
+          <li><a href="/fscareers/fs_careers_with_us.htm">Current Openings</a></li>
+          <li><a href="/fscareers/fs_careers_benefits.htm">Career Benefits</a></li>
+          <li><a href="/fscareers/fs_special_hiring_programs.htm">Special Hiring Programs</a></li>
+          <li><a href="/fscareers/fs_employment_policies.htm">Employment Policies</a></li>
+        </ul>
+      </li>
+      <li><a href="/fs_a_z_index.htm">A-Z Index</a></li>
+      <li><a href="/fs_glossary.htm">Glossary</a></li>
+      <li><a href="/fstraining/fs_training_events.htm">Training &amp; Events</a>
+        <ul>
+          <li><a href="/fstraining/training/fs_trainingopportunities.htm">Training Opportunities</a></li>
+          <li><a href="/fstraining/events/fs_upcomingevents.htm">Upcoming Events</a></li>
+        </ul>
+      </li>
+      <li><a href="/fs_related_websites.htm">Related Websites</a>
+        <ul>
+          <li><a href="http://www.treasury.gov/">Department of Treasury</a></li>
+          <li><a href="http://www.treasurydirect.gov/">TreasuryDirect.gov</a></li>
+          <li><a href="http://godirect.org/">Go Direct</a></li>
+          <li><a href="https://arc.publicdebt.treas.gov/fshome.htm">Administrative Resource Center (ARC)</a></li>
+          <li><a href="http://donotpay.treas.gov/">Do Not Pay</a></li>
+          <li><a href="http://www.treasurydirect.gov/readysavegrow/readysavegrow.htm">Ready.Save.Grow.</a></li>
+          <li><a href="http://fms.treas.gov/directexpresscard/index.html">Direct Express</a></li>
+          <li><a href="http://pay.gov">Pay.gov</a></li>
+          <li><a href="https://www.eftps.gov/eftps/">EFTPS</a></li>
+          <li><a href="http://www.benefits.gov/">Benefits.gov</a></li>
+          <li><a href="http://www.usmint.gov/">U.S. Mint</a></li>
+          <li><a href="http://www.federalreserve.gov">Federal Reserve</a></li>
+          <li><a href="http://www.bep.gov">Bureau of Engraving &amp; Printing</a></li>
+          <li><a href="http://www.business.usa.gov">Business USA</a></li>
+          <li><a href="http://www.irs.gov/">IRS</a></li>
+          <li><a href="http://www.gsa.gov">GSA</a></li>
+          <li><a href="http://www.its.gov">ITS</a></li>
+        </ul>
+      </li>
+    </ul>
+<div id="search">
+  <form accept-charset="UTF-8" action="//search.usa.gov/search" id="search_form" method="get">
+  <fieldset>
+    <input name="utf8" type="hidden" value="&#x2713;" />
+    <input id="affiliate" name="affiliate" type="hidden" value="fiscal" />
+    <label for="query" style="display:none;">Search:</label>
+    <input autocomplete="off" class="usagov-search-autocomplete" id="query" size="27" maxlength="256" value="Search: " name="query" type="text" onclick="this.value=''" />
+	<input name="btnG" value="Search" class="button" src="/images/search.png" alt="Search" type="image" />
+    <!-- <input name="commit" type="submit" value="Search" /> -->
+   </fieldset>
+  </form>
+ </div>
+  </div>
+</div>
+<br clear="all" />
+<div class="header">
+  <div class="logo"><a href="/fsindex.htm"><img src="/images/logo.jpg"  alt="Bureau of the Fiscal Service" border="0" /></a></div>
+  <div id="mainNav">
+    <ul>
+      <li id="menu_home"><a href="/fsindex.htm">Home</a></li>
+      <li id="menu_fsabout"><a href="/fsabout/fs_about.htm">About Us</a>
+        <ul class="child">
+		  <li><a href="/foia/foia_home.htm">Freedom of Information Act (FOIA)</a></li>
+          <li><a href="/fsabout/fs_mvv.htm">Mission,Vision,Values</a></li>
+          <li><a href="/fsabout/fs_ourpeople.htm">Our People</a></li>
+          <li><a href="/fsabout/fs_history.htm">Our History</a></li>
+		  <li><a href="/fsabout/fs_privacy.htm">Privacy &amp; Legal Notices</a></li>
+        </ul>
+      </li>
+      <li id="menu_fsprograms"><a href="/fsprograms/fs_programs.htm">Our Programs</a>
+        <ul class="child">
+          <li class="twoline"><a href="/fsprograms/fs_tss.htm">Treasury Securities Services</a></li>
+          <li class="twoline"><a href="/fsprograms/fs_gais.htm">Government Agency Investment Services</a></li>
+          <li><a href="/fsprograms/fs_sda.htm">Summary Debt Accounting</a></li>
+          <li><a href="/fsprograms/fs_sharedservices.htm">Shared Services</a></li>
+          <li><a href="/fsprograms/fs_donotpaybc.htm">Do Not Pay Business Center</a></li>
+          <li><a href="/fsprograms/fs_payments.htm">Payments</a></li>
+          <li><a href="/fsprograms/fs_collections.htm">Revenue Collections</a></li>
+          <li class="twoline"><a href="/fsprograms/fs_gwa.htm">Government-wide Accounting</a></li>
+          <li><a href="/fsprograms/fs_debt.htm">Debt Collection</a></li>
+        </ul>
+      </li>
+      <li id="menu_fsreports"><a href="/fsreports/fs_reports_publications.htm">Reports &amp; Publications</a>
+        <ul class="child">
+          <li><a href="/fsreports/fs_reports.htm">Reports &amp; Statements</a></li>
+          <li><a href="/fsreports/fs_reference.htm">Reference &amp; Guidance</a></li>
+          <li><a href="/fsreports/fs_publications.htm">Publications</a></li>
+        </ul>
+      </li>
+      <li id="menu_fsservices"><a href="/fsservices/fs_services.htm">Our Services</a>
+        <ul class="child">
+          <li><a href="/fsservices/fs_govt.htm">Government Agencies</a></li>
+          <li><a href="/fsservices/fs_instit.htm">Institutions &amp; Businesses</a></li>
+          <li><a href="/fsservices/fs_indiv.htm">Individuals</a></li>
+        </ul>
+      </li>
+      <li id="menu_fsnews"><a href="/fsnews/fs_news.htm">News</a></li>
+      <li id="menu_fscontact" class="lastitem"><a href="/fscontact/fs_contact.htm">Contact Us</a>
+        <ul class="child">
+          <li><a href="https://www.fms.treas.gov/fmsweb/EmailSubscribeAction.do">E-Mail Subscriptions</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+<script type="text/javascript">
+    // Instructions: please embed this snippet directly into every page in your website template.
+    // For optimal performance, this must be embedded directly into the template, not referenced
+    // as an external file.
+
+    // Answers Cloud Services Embed Script v1.02
+    // DO NOT MODIFY BELOW THIS LINE *****************************************
+    ;(function (g) {
+        var d = document, i, am = d.createElement('script'), h = d.head || d.getElementsByTagName("head")[0],
+                aex = {
+                    "src": "//gateway.answerscloud.com/fiscal-treasury-gov/production/gateway.min.js",
+                    "type": "text/javascript",
+                    "async": "true",
+                    "data-vendor": "acs",
+                    "data-role": "gateway"
+                };
+        for (var attr in aex) { am.setAttribute(attr,aex[attr]); }
+        h.appendChild(am);
+        g['acsReady'] = function () {var aT = '__acsReady__', args = Array.prototype.slice.call(arguments, 0),k = setInterval(function () {if (typeof g[aT] === 'function') {clearInterval(k);for (i = 0; i < args.length; i++) {g[aT].call(g, function(fn) { return function() { setTimeout(fn, 1) };}(args[i]));}}}, 50);};
+    })(window);
+    // DO NOT MODIFY ABOVE THIS LINE *****************************************
+</script>
+<script type="text/javascript">
+function googleTranslateElementInit() {
+	  new google.translate.TranslateElement({
+		pageLanguage: 'en',
+		floatPosition: google.translate.TranslateElement.FloatPosition.BOTTOM_RIGHT
+	  });
+	}
+	</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
+<br style="clear: left;" />
+
+
+
+<div id="wrapper">
+<div class="top_shade"></div>
+<div id="content" class="border_shadow">
+<div class="center_box_content">
+<div id="bgOverlay">
+
+
+<!--Begin left nav section-->
+
+<div id="left_nav">
+<ul class="tierone">
+<li><a href="/fsreports/fs_reports_publications.htm">Reports &amp; Publications</a></li>
+<li><a href="/fsreports/fs_reports.htm">Reports &amp; Statements</a>
+		<ul class="tiertwo">
+      		<li><a href="/fsreports/rpt/fspia/fs_pia.htm">Privacy Impact Assessments</a></li>
+			<li><a href="/fsreports/rpt/combStmt/combStmt_home.htm">Combined Statement</a></li>
+			<li><a href="/fsreports/rpt/cvfr/cvfr_home.htm">Current Value of Funds Rate</a></li>    <li><a href="http://fms.treas.gov/dts/overview.html">Daily Treasury Statement</a></li>
+       		<li><a href="/fsreports/rpt/finrep/fr/fr_index.htm">Financial Report of the U.S. Government</a></li>
+			<li><a href="/fsreports/rpt/fundBal/fundBal_home.htm">Fund Balance with Treasury</a></li>
+			<li><a href="/fsreports/rpt/mthTreasStmt/mthTreasStmt_home.htm">Monthly Treasury Statement</a></li>
+			<li><a href="/fsreports/rpt/goldRpt/goldRpt_home.htm">Status Report of U.S. Government Gold Reserve</a></li>
+			<li><a href="/fsreports/rpt/treasBulletin/treasBulletin_home.htm">Treasury Bulletin</a></li>
+            <li><a href="/fsreports/rpt/treasRptRateExch/treasRptRateExch_home.htm">The Treasury Reporting Rates of Exchange</a>
+
+                      <ul class="tierthree">
+                      <li><a href="/fsreports/rpt/treasRptRateExch/currentRates.htm">Current Rates</a></li>
+                      <li><a href="/fsreports/rpt/treasRptRateExch/historicalRates.htm">Historical Rates</a></li>
+		      <li><a href="/fsreports/rpt/treasRptRateExch/contacts.htm">Contacts</a></li>
+       		</ul>
+            </li>
+            </ul>
+            </li>
+<li><a href="/fsreports/fs_reference.htm">Reference &amp; Guidance</a></li>
+<li><a href="/fsreports/fs_publications.htm">Publications</a></li>
+</ul>
+
+</div>
+
+
+
+
+<!--Begin main content section-->
+<div id="center">
+
+<img src="/images/b5.jpg" width="370" height="146" alt="photo of calculator, line charts and coins" />
+
+
+<h1>Treasury Reporting Rates of Exchange</h1>
+<br />
+<p><strong>Please  Note</strong>:  The Bureau of the Fiscal Service provides current and historical exchange rate  information. We cannot provide advice on, or assistance with, investing in  foreign currencies.</p>
+<ul>
+  <li><a href="currentRates.htm">Get Current Rates</a></li>
+  <!--li><a href="intnamend1.htm">Amendment No. 1</a></li -->
+  <li><a href="historicalRates.htm">Get Historical Rates</a></li>
+  </ul>
+<h2>Report Description:</h2>
+  <p>This  report provides exchange rate information under Section 613 of Public Law  87-195 dated September 4, 1961 (22 USC 2363 (b)) which gives the Secretary of  the Treasury sole authority to establish the exchange rates for all foreign  currencies or credits reported by all agencies of the government.</p>
+  <p>The  primary purpose is to ensure that foreign currency reports prepared by agencies  are consistent with regularly published Treasury foreign currency reports regarding  amounts stated in foreign currency units and U.S. dollar equivalents. </p>
+  <p>This  covers all foreign currencies in which the U.S. government has an interest,  including:</p>
+<ul>
+  <li>receipts and disbursements, </li>
+  <li>accrued revenues and expenditures, </li>
+  <li>authorizations, </li>
+  <li>obligations, </li>
+  <li>receivables and payables, </li>
+  <li>refunds, and </li>
+  <li>similar reverse transaction items.</li>
+</ul>
+<p>Exceptions  to using the reporting rates as shown in the report are:</p>
+<ul>
+  <li>collections and refunds to be valued at specified rates set by  international agreements, </li>
+  <li>conversions of one foreign currency into another, </li>
+  <li>foreign currencies sold for dollars, and </li>
+  <li>other types of transactions affecting dollar appropriations. (See <a href="http://fms.treas.gov/tfm/vol1/v1p2c320.txt">Volume  I Treasury Financial Manual 2-3200</a> for further details.) </li>
+</ul>
+<p>This  quarterly report reflects exchange rates at which the U.S. government can  acquire foreign currencies for official expenditures as reported by disbursing  officers for each post on the last business day of the month prior to the date  of the published report.</p>
+  <p><strong>Example:</strong> The  quarterly report as of December 31 will reflect exchange rates reported by  disbursing officers as of November 30. If current rates deviate from the rates  in this report by 10 percent or more, Treasury will issue amendments to this  quarterly report. Amendments will also be issued to reflect the establishment  of new foreign currencies.</p>
+  <p>To ensure  all reports are translated at uniform exchange rates, all U.S. government  agencies should use these rates, except as noted above, to convert  foreign currency balances and reported transactions to U.S. dollar equivalents  as of the date of this report and for the ensuing three months.</p>
+ <p> Since the  exchange rates in this report are not current rates of exchange, they should  not be used to value transactions affecting dollar appropriations.</p>
+
+
+</div>
+
+
+
+<!--right nav-->
+
+<div id="ourwebsites">
+<div class="gradientbox">
+<h4>Updates</h4>  
+  	<p><a href="amendment1june2016.pdf">Amendment Number 1</a> <img src="/images/pdficon.gif" width="15" height="15" border="0" alt="PDF File" align="bottom"></p>
+  	<p><a href="amendment2june2016.pdf">Amendment Number 2</a> <img src="/images/pdficon.gif" width="15" height="15" border="0" alt="PDF File" align="bottom"></p>
+	</div>
+ <!-- 
+    <h4>Quick Links</h4>
+    <ul>
+      <li><a href="amendment5march2015.pdf">Amendment Number 5</a> <img src="/images/pdficon.gif" width="15" height="15" border="0" alt="PDF File" align="bottom"></li>
+      <li><a href="amendment4march2015.pdf">Amendment Number 4</a> <img src="/images/pdficon.gif" width="15" height="15" border="0" alt="PDF File" align="bottom"></li>
+      <li><a href="amendment3march2015.pdf">Amendment Number 3</a> <img src="/images/pdficon.gif" width="15" height="15" border="0" alt="PDF File" align="bottom"></li>
+      <li><a href="amendment2march2015.pdf">Amendment Number 2</a> <img src="/images/pdficon.gif" width="15" height="15" border="0" alt="PDF File" align="bottom"></li>
+      <li><a href="amendment1mar2015.pdf">Amendment Number 1</a> <img src="/images/pdficon.gif" width="15" height="15" border="0" alt="PDF File" align="bottom"></li>
+    </ul>
+  </div>-->
+
+  <div class="gradientbox">
+ 
+    <h4>Receive E-Mail updates</h4>
+    <ul>
+      <li><a href="https://fms.treas.gov/fmsweb/EmailSubscribeAction.do">Subscribe to E-Mail Notification</a></li>
+    </ul>
+  </div>
+  <div class="gradientlast"> </div>
+</div>
+
+
+
+
+
+<!--end right nav-->
+
+
+<br class="clrall" />
+
+</div>
+</div></div>
+</div>
+
+
+<div id="footer">
+  <div id="footer_seal"> <img src="/images/footer.png" alt="Bureau of the Fiscal Service"/></div>
+  <div id="footer_inset">
+    <div id="ft_one">
+      <p>Fiscal Service Items</p>
+      <ul>
+        <li><a href="/fsindex.htm">Home</a></li>
+        <li><a href="/fsabout/fs_about.htm">About Us</a></li>
+        <li><a href="/fsprograms/fs_programs.htm">Our Programs</a></li>
+        <li><a href="/fsreports/fs_reports_publications.htm">Reports &amp; Publications</a></li>
+        <li><a href="/fsservices/fs_services.htm">Our Services</a></li>
+        <li><a href="/foia/foia_home.htm">Freedom of Information Act</a></li>
+        <li><a href="/fsnews/fs_news.htm">News</a></li>
+        <li><a href="/fscontact/fs_contact.htm">Contact Us</a></li>
+        <li><a href="/fs_sitemap.htm">Site Map</a></li>
+        <li><a href="/fsabout/accessibility.htm">Accessibility Statement</a></li>
+        <li><a href="/fsabout/fs_privacy.htm">Privacy Policy</a></li>
+        <li><a href="/fsreports/rpt/fspia/fs_pia.htm">Privacy Impact Assessments</a></li>
+      </ul>
+    </div>
+    <div id="ft_two">
+      <ul>
+        <li><a href="/fsfaq/fs_faqs.htm">FAQs</a></li>
+        <li><a href="/fscareers/fs_careers.htm">Careers</a></li>
+        <li><a href="/fs_a_z_index.htm">A-Z Index</a></li>
+        <li><a href="/fs_glossary.htm">Glossary</a></li>
+        <li><a href="/fstraining/fs_training_events.htm">Training &amp; Events</a></li>
+        <li><a href="/fs_related_websites.htm">Related Websites</a></li>
+      </ul>
+    </div>
+    <div id="ft_three">
+      <div class="ft_divider"><img src="/images/divider.jpg" width="5" height="250" alt="" /></div>
+      <p>Fiscal Service Websites</p>
+      <ul>
+        <li><a href="http://www.treasurydirect.gov/">TreasuryDirect.gov</a></li>
+        <li><a href="https://arc.publicdebt.treas.gov/fshome.htm">Administrative Resource Center (ARC)</a></li>
+        <li><a href="http://www.donotpay.treas.gov/">Do Not Pay</a></li>
+      </ul>
+    </div>
+    <div id="ft_four">
+      <div class="ft_divider"><img src="/images/divider.jpg" width="5" height="250" alt="" /></div>
+      <p>Other Treasury Bureaus</p>
+      <ul>
+        <li><a href="http://www.ttb.gov/">The Alcohol and Tobacco Tax and Trade Bureau</a></li>
+        <li><a href="http://www.bep.gov/">Bureau of Engraving &amp; Printing</a></li>
+        <li><a href="http://www.cdfifund.gov/">Community Development Financial Institutions Fund</a></li>
+        <li><a href="http://www.fincen.gov/">Financial Crimes Enforcement Network (FinCen)</a></li>
+        <li><a href="http://www.irs.gov/">Internal Revenue Service</a></li>
+        <li><a href=" http://www.occ.gov/">Office of The Comptroller of the Currency</a></li>
+        <li><a href="http://www.usmint.gov/">U.S. Mint</a></li>
+      </ul>
+    </div>
+    <div id="ft_five">
+      <div class="ft_divider"><img src="/images/divider.jpg" width="5" height="250" alt="" /></div>
+      <p>Other Government Websites</p>
+      <ul>
+        <li><a href="http://www.usa.gov/">USA.gov</a></li>
+        <li><a href="https://www.usajobs.gov/">USAJOBS.gov</a></li>
+        <li><a href="http://www.opm.gov/">OPM.gov</a></li>
+        <li><a href="http://www.mymoney.gov/">MyMoney.gov</a></li>
+        <li><a href="http://www.data.gov/">Data.gov</a></li>
+        <li><a href="http://www.regulations.gov/">Regulations.gov</a></li>
+        <li><a href="http://www.paymentaccuracy.gov/">PaymentAccuracy.gov</a></li>
+        <li><a href="http://business.usa.gov/">BusinessUSA.gov</a></li>
+        <li><a href="http://www.treasury.gov/No-Fear-Act/Pages/default.aspx">No Fear Act</a></li>
+        <!-- li><a href="http://www.recovery.gov">Recovery.gov</a></li -->
+      </ul>
+    </div>
+  </div>
+  <br class="clrall" />
+  <div style=" padding-left:43%; color: #fff; font-size:12px;"><em>Last Updated January  9, 2015</em></div>
+</div>
+<br class="clrall" />
+<div id="subfooter">
+  <div id="subfooter_center">
+    <div id="subfooter_one"> <a href="http://www.treasury.gov/open/Pages/default.aspx"><img src="/images/opengov.png" alt="Open Gov" width="131" height="31" border="0" /></a>&nbsp;&nbsp; <a href="http://www.mymoney.gov/"><img src="/images/mymoney.png" alt="My Money.gov" width="110" height="31" border="0" /></a>&nbsp;&nbsp; <a href="http://www.usa.gov/"><img src="/images/usa.png" alt="USA.gov" width="93" height="31" border="0" /></a>&nbsp;&nbsp; <a href="http://business.usa.gov/"><img src="/images/businessusa.png" alt="Business USA" width="165" height="31" border="0" /></a> </div>
+    <!-- div id="subfooter_two"> <a href="http://www.recovery.gov"><img src="/images/recovery.png" alt="Recover" width="55" height="60" border="0" /></a></div -->
+    <div id="subfooter_three"> <a href="/exit.htm?http://www.facebook.com/readysavegrow"><img src="/images/facebook.png" alt="Facebook" width="31" height="31" border="0" /></a>&nbsp;&nbsp; <a href="/exit.htm?https://twitter.com/FiscalService"><img src="/images/twitter.png" alt="Twitter" width="31" height="31" border="0"/></a>&nbsp;&nbsp; <a href="/exit.htm?http://www.youtube.com/TreasuryDirect"><img src="/images/youtube.png" alt="You Tube" width="31" height="31" border="0" /></a>&nbsp;&nbsp; <a href="http://www.treasurydirect.gov/rss/index.htm"><img src="/images/socialmedia.png" alt="RSS Feed" width="31" height="31" border="0" /></a> </div>
+  </div>
+</div>
+<script type="text/javascript" src="/js/highlightMenu.js"></script> 
+<script type="text/javascript">
+//<![CDATA[
+      var usasearch_config = { siteHandle:"fiscal" };
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+      script.src = "//search.usa.gov/javascripts/remote.loader.js";
+      document.getElementsByTagName("head")[0].appendChild(script);
+
+//]]>
+</script>
+
+
+
+
+</body>
+</html>
+

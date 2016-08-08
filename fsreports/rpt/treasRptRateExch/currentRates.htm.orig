@@ -1,0 +1,1165 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Bureau of the Fiscal Service</title>
+    <link href="/css/fs_screen.css" rel="stylesheet" type="text/css" />
+    <script src="/js/jquery-1.8.3.min.js"></script>
+    <script src="/js/menu.js"></script>
+    <!-- jQuery (required) -->
+    <script src="/js/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/js/jquery.min.js"><\/script>')</script>
+
+    <!--[if lte IE 9]>
+		<style>#search .button {float: left; margin: 0;padding: 10px 0 0 3px;}</style>
+	<![endif]-->
+
+    <!--[if lte IE 7]>
+		<style>.header #mainNav {display: inline;}</style>
+	<![endif]-->
+
+    <!-- Flyout menu -->
+    <script type="text/javascript">
+        <!--
+        $(document).ready(function(){
+
+	// Remove the class of child and grandchild
+	// This removes the CSS 'falback'
+	$("#mainNav ul.child").removeClass("child");
+	$("#mainNav ul.grandchild").removeClass("grandchild");
+
+	// When a list item that contains an unordered list
+	// is hovered on
+	$("#mainNav li").has("ul").hover(function(){
+
+		//Add a class of current and fade in the sub-menu
+		$(this).addClass("current").children("ul").fadeIn();
+	}, function() {
+
+		// On mouse off remove the class of current
+		// Stop any sub-menu animation and set its display to none
+		$(this).removeClass("current").children("ul").stop(true, true).css("display", "none");
+	});
+
+});
+		-->
+    </script>
+
+    <!-- START Fiscal Service Site Analytics -->
+
+<!-- START OF SmartSource Data Collector TAG v10.4.1 -->
+<!-- Copyright (c) 2014 Webtrends Inc.  All rights reserved. -->
+<script>
+window.webtrendsAsyncInit=function(){
+    var dcs=new Webtrends.dcs().init({
+        dcsid:"dcs0mv2cn000000om5qh0n5kd_8d8g",
+        domain:"sdc.fiscal.treasury.gov",
+        timezone:-5,
+        i18n:true,
+        download:true,
+        downloadtypes:"xls,doc,pdf,txt,csv,zip,docx,xlsx,rar,gzip,doc,exe",
+        anchor:true,
+        fpcdom:".fiscal.treasury.gov",
+        plugins:{
+            //hm:{src:"//s.webtrends.com/js/webtrends.hm.js"}
+        }
+        }).track();
+};
+(function(){
+    var s=document.createElement("script"); s.async=true; s.src="/js/webtrends.min.js";    
+    var s2=document.getElementsByTagName("script")[0]; s2.parentNode.insertBefore(s,s2);
+}());
+</script>
+<noscript><img alt="dcsimg" id="dcsimg" width="1" height="1" src="//sdc.fiscal.treasury.gov/dcs0mv2cn000000om5qh0n5kd_8d8g/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.4.1&amp;dcssip=www.fiscal.treasury.gov"/></noscript>
+<!-- END OF SmartSource Data Collector TAG v10.4.1 -->
+<!-- BEGIN DAP Analytics -->
+<script language="javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=TRE&subagency=FS"></script>
+<!-- END DAP Analytics -->
+<!-- END Fiscal Service Site Anayltics -->
+
+<script type="text/javascript">
+    // Instructions: please embed this snippet directly into every page in your website template.
+    // For optimal performance, this must be embedded directly into the template, not referenced
+    // as an external file.
+
+    // Answers Cloud Services Embed Script v1.02
+    // DO NOT MODIFY BELOW THIS LINE *****************************************
+    ;(function (g) {
+        var d = document, i, am = d.createElement('script'), h = d.head || d.getElementsByTagName("head")[0],
+                aex = {
+                    "src": "//gateway.answerscloud.com/fiscal-treasury-gov/production/gateway.min.js",
+                    "type": "text/javascript",
+                    "async": "true",
+                    "data-vendor": "acs",
+                    "data-role": "gateway"
+                };
+        for (var attr in aex) { am.setAttribute(attr,aex[attr]); }
+        h.appendChild(am);
+        g['acsReady'] = function () {var aT = '__acsReady__', args = Array.prototype.slice.call(arguments, 0),k = setInterval(function () {if (typeof g[aT] === 'function') {clearInterval(k);for (i = 0; i < args.length; i++) {g[aT].call(g, function(fn) { return function() { setTimeout(fn, 1) };}(args[i]));}}}, 50);};
+    })(window);
+    // DO NOT MODIFY ABOVE THIS LINE *****************************************
+</script>
+
+<!-- END Fiscal Service Site Analytics -->
+
+    </head>
+    <body>
+
+    
+<div id="topDiv">
+  <div id="welcomeText">
+    <ul>
+      <li><a href="/fsfaq/fs_how_do_i.htm">Introduction to Fiscal</a>
+        <ul>
+          <li><a href="/fsfaq/fs_how_do_i.htm">1<sup>st</sup> Time Visitors</a></li>
+          <li><a href="/fsfaq/fs_doing_business.htm">Doing Business with Fiscal Service</a></li>
+          <li><a href="/fsfaq/fs_gifts_to_govt.htm">Gifts to the U.S. Government</a></li>
+          <li><a href="/fsfaq/fs_faqs.htm">FAQ</a></li>
+        </ul>
+      </li>
+      <li><a href="/fscareers/fs_careers.htm">Careers</a>
+        <ul>
+          <li><a href="/fscareers/fs_employment.htm">Employment Opportunities</a></li>
+          <li><a href="/fscareers/fs_careers_with_us.htm">Current Openings</a></li>
+          <li><a href="/fscareers/fs_careers_benefits.htm">Career Benefits</a></li>
+          <li><a href="/fscareers/fs_special_hiring_programs.htm">Special Hiring Programs</a></li>
+          <li><a href="/fscareers/fs_employment_policies.htm">Employment Policies</a></li>
+        </ul>
+      </li>
+      <li><a href="/fs_a_z_index.htm">A-Z Index</a></li>
+      <li><a href="/fs_glossary.htm">Glossary</a></li>
+      <li><a href="/fstraining/fs_training_events.htm">Training &amp; Events</a>
+        <ul>
+          <li><a href="/fstraining/training/fs_trainingopportunities.htm">Training Opportunities</a></li>
+          <li><a href="/fstraining/events/fs_upcomingevents.htm">Upcoming Events</a></li>
+        </ul>
+      </li>
+      <li><a href="/fs_related_websites.htm">Related Websites</a>
+        <ul>
+          <li><a href="http://www.treasury.gov/">Department of Treasury</a></li>
+          <li><a href="http://www.treasurydirect.gov/">TreasuryDirect.gov</a></li>
+          <li><a href="http://godirect.org/">Go Direct</a></li>
+          <li><a href="https://arc.publicdebt.treas.gov/fshome.htm">Administrative Resource Center (ARC)</a></li>
+          <li><a href="http://donotpay.treas.gov/">Do Not Pay</a></li>
+          <li><a href="http://www.treasurydirect.gov/readysavegrow/readysavegrow.htm">Ready.Save.Grow.</a></li>
+          <li><a href="http://fms.treas.gov/directexpresscard/index.html">Direct Express</a></li>
+          <li><a href="http://pay.gov">Pay.gov</a></li>
+          <li><a href="https://www.eftps.gov/eftps/">EFTPS</a></li>
+          <li><a href="http://www.benefits.gov/">Benefits.gov</a></li>
+          <li><a href="http://www.usmint.gov/">U.S. Mint</a></li>
+          <li><a href="http://www.federalreserve.gov">Federal Reserve</a></li>
+          <li><a href="http://www.bep.gov">Bureau of Engraving &amp; Printing</a></li>
+          <li><a href="http://www.business.usa.gov">Business USA</a></li>
+          <li><a href="http://www.irs.gov/">IRS</a></li>
+          <li><a href="http://www.gsa.gov">GSA</a></li>
+          <li><a href="http://www.its.gov">ITS</a></li>
+        </ul>
+      </li>
+    </ul>
+<div id="search">
+  <form accept-charset="UTF-8" action="//search.usa.gov/search" id="search_form" method="get">
+  <fieldset>
+    <input name="utf8" type="hidden" value="&#x2713;" />
+    <input id="affiliate" name="affiliate" type="hidden" value="fiscal" />
+    <label for="query" style="display:none;">Search:</label>
+    <input autocomplete="off" class="usagov-search-autocomplete" id="query" size="27" maxlength="256" value="Search: " name="query" type="text" onclick="this.value=''" />
+	<input name="btnG" value="Search" class="button" src="/images/search.png" alt="Search" type="image" />
+    <!-- <input name="commit" type="submit" value="Search" /> -->
+   </fieldset>
+  </form>
+ </div>
+  </div>
+</div>
+<br clear="all" />
+<div class="header">
+  <div class="logo"><a href="/fsindex.htm"><img src="/images/logo.jpg"  alt="Bureau of the Fiscal Service" border="0" /></a></div>
+  <div id="mainNav">
+    <ul>
+      <li id="menu_home"><a href="/fsindex.htm">Home</a></li>
+      <li id="menu_fsabout"><a href="/fsabout/fs_about.htm">About Us</a>
+        <ul class="child">
+		  <li><a href="/foia/foia_home.htm">Freedom of Information Act (FOIA)</a></li>
+          <li><a href="/fsabout/fs_mvv.htm">Mission,Vision,Values</a></li>
+          <li><a href="/fsabout/fs_ourpeople.htm">Our People</a></li>
+          <li><a href="/fsabout/fs_history.htm">Our History</a></li>
+		  <li><a href="/fsabout/fs_privacy.htm">Privacy &amp; Legal Notices</a></li>
+        </ul>
+      </li>
+      <li id="menu_fsprograms"><a href="/fsprograms/fs_programs.htm">Our Programs</a>
+        <ul class="child">
+          <li class="twoline"><a href="/fsprograms/fs_tss.htm">Treasury Securities Services</a></li>
+          <li class="twoline"><a href="/fsprograms/fs_gais.htm">Government Agency Investment Services</a></li>
+          <li><a href="/fsprograms/fs_sda.htm">Summary Debt Accounting</a></li>
+          <li><a href="/fsprograms/fs_sharedservices.htm">Shared Services</a></li>
+          <li><a href="/fsprograms/fs_donotpaybc.htm">Do Not Pay Business Center</a></li>
+          <li><a href="/fsprograms/fs_payments.htm">Payments</a></li>
+          <li><a href="/fsprograms/fs_collections.htm">Revenue Collections</a></li>
+          <li class="twoline"><a href="/fsprograms/fs_gwa.htm">Government-wide Accounting</a></li>
+          <li><a href="/fsprograms/fs_debt.htm">Debt Collection</a></li>
+        </ul>
+      </li>
+      <li id="menu_fsreports"><a href="/fsreports/fs_reports_publications.htm">Reports &amp; Publications</a>
+        <ul class="child">
+          <li><a href="/fsreports/fs_reports.htm">Reports &amp; Statements</a></li>
+          <li><a href="/fsreports/fs_reference.htm">Reference &amp; Guidance</a></li>
+          <li><a href="/fsreports/fs_publications.htm">Publications</a></li>
+        </ul>
+      </li>
+      <li id="menu_fsservices"><a href="/fsservices/fs_services.htm">Our Services</a>
+        <ul class="child">
+          <li><a href="/fsservices/fs_govt.htm">Government Agencies</a></li>
+          <li><a href="/fsservices/fs_instit.htm">Institutions &amp; Businesses</a></li>
+          <li><a href="/fsservices/fs_indiv.htm">Individuals</a></li>
+        </ul>
+      </li>
+      <li id="menu_fsnews"><a href="/fsnews/fs_news.htm">News</a></li>
+      <li id="menu_fscontact" class="lastitem"><a href="/fscontact/fs_contact.htm">Contact Us</a>
+        <ul class="child">
+          <li><a href="https://www.fms.treas.gov/fmsweb/EmailSubscribeAction.do">E-Mail Subscriptions</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+<script type="text/javascript">
+    // Instructions: please embed this snippet directly into every page in your website template.
+    // For optimal performance, this must be embedded directly into the template, not referenced
+    // as an external file.
+
+    // Answers Cloud Services Embed Script v1.02
+    // DO NOT MODIFY BELOW THIS LINE *****************************************
+    ;(function (g) {
+        var d = document, i, am = d.createElement('script'), h = d.head || d.getElementsByTagName("head")[0],
+                aex = {
+                    "src": "//gateway.answerscloud.com/fiscal-treasury-gov/production/gateway.min.js",
+                    "type": "text/javascript",
+                    "async": "true",
+                    "data-vendor": "acs",
+                    "data-role": "gateway"
+                };
+        for (var attr in aex) { am.setAttribute(attr,aex[attr]); }
+        h.appendChild(am);
+        g['acsReady'] = function () {var aT = '__acsReady__', args = Array.prototype.slice.call(arguments, 0),k = setInterval(function () {if (typeof g[aT] === 'function') {clearInterval(k);for (i = 0; i < args.length; i++) {g[aT].call(g, function(fn) { return function() { setTimeout(fn, 1) };}(args[i]));}}}, 50);};
+    })(window);
+    // DO NOT MODIFY ABOVE THIS LINE *****************************************
+</script>
+<script type="text/javascript">
+function googleTranslateElementInit() {
+	  new google.translate.TranslateElement({
+		pageLanguage: 'en',
+		floatPosition: google.translate.TranslateElement.FloatPosition.BOTTOM_RIGHT
+	  });
+	}
+	</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> 
+
+    <br style="clear: left;" />
+    <div id="wrapper">
+      <div class="top_shade"></div>
+      <div id="content" class="border_shadow">
+        <div class="center_box_content">
+          <div id="bgOverlay"> 
+            
+            <!--Begin left nav section--> 
+            <div id="left_nav">
+<ul class="tierone">
+<li><a href="/fsreports/fs_reports_publications.htm">Reports &amp; Publications</a></li>
+<li><a href="/fsreports/fs_reports.htm">Reports &amp; Statements</a>
+		<ul class="tiertwo">
+      		<li><a href="/fsreports/rpt/fspia/fs_pia.htm">Privacy Impact Assessments</a></li>
+			<li><a href="/fsreports/rpt/combStmt/combStmt_home.htm">Combined Statement</a></li>
+			<li><a href="/fsreports/rpt/cvfr/cvfr_home.htm">Current Value of Funds Rate</a></li>    <li><a href="http://fms.treas.gov/dts/overview.html">Daily Treasury Statement</a></li>
+       		<li><a href="/fsreports/rpt/finrep/fr/fr_index.htm">Financial Report of the U.S. Government</a></li>
+			<li><a href="/fsreports/rpt/fundBal/fundBal_home.htm">Fund Balance with Treasury</a></li>
+			<li><a href="/fsreports/rpt/mthTreasStmt/mthTreasStmt_home.htm">Monthly Treasury Statement</a></li>
+			<li><a href="/fsreports/rpt/goldRpt/goldRpt_home.htm">Status Report of U.S. Government Gold Reserve</a></li>
+			<li><a href="/fsreports/rpt/treasBulletin/treasBulletin_home.htm">Treasury Bulletin</a></li>
+            <li><a href="/fsreports/rpt/treasRptRateExch/treasRptRateExch_home.htm">The Treasury Reporting Rates of Exchange</a>
+
+                      <ul class="tierthree">
+                      <li><a href="/fsreports/rpt/treasRptRateExch/currentRates.htm">Current Rates</a></li>
+                      <li><a href="/fsreports/rpt/treasRptRateExch/historicalRates.htm">Historical Rates</a></li>
+		      <li><a href="/fsreports/rpt/treasRptRateExch/contacts.htm">Contacts</a></li>
+       		</ul>
+            </li>
+            </ul>
+            </li>
+<li><a href="/fsreports/fs_reference.htm">Reference &amp; Guidance</a></li>
+<li><a href="/fsreports/fs_publications.htm">Publications</a></li>
+</ul>
+
+</div>
+ 
+            
+            <!--Begin main content section-->
+            <div id="center_twocolumn"> <img src="/images/700_pen2.jpg" alt="photo of calculator, line charts and coins" />
+              <h1>Treasury Reporting Rates of Exchange</h1>
+              <h2>Treasury Reporting Rates of Exchange as of June 30, 2016</h2>
+              
+              <h2><a href="amendment1june2016.pdf">Amendment Number 1</a> <img src="/images/pdficon.gif" width="15" height="15" border="0" alt="PDF File" align="bottom"></h2> 
+              
+              <h2><a href="amendment2june2016.pdf">Amendment Number 2</a> <img src="/images/pdficon.gif" width="15" height="15" border="0" alt="PDF File" align="bottom"></h2>        
+              
+              <table border="1" cellpadding="5" align="left" summary="Treasury Reporting Rates of Exchange as of December 30, 2015">
+                <tr>
+                  <th scope=col>Country - Currency</th>
+                  <th scope=col>Foreign Currency to $1.00</th>
+                </tr>
+                <tr>
+                  <td>AFGHANISTAN - AFGHANI</td>
+                  <td width="238">68.2200</td>
+                </tr>
+  <tr>
+    <td>ALBANIA - LEK</td>
+    <td>123.1600</td>
+    </tr>
+  <tr>
+    <td>ALGERIA - DINAR</td>
+    <td>109.8660</td>
+    </tr>
+  <tr>
+    <td>ANGOLA -    KWANZA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>170.0000</td>
+    </tr>
+  <tr>
+    <td>ANTIGUA - BARBUDA - E. CARIBBEAN DOLLAR</td>
+    <td>2.7000</td>
+    </tr>
+  <tr>
+    <td>ARGENTINA-PESO</td>
+    <td>14.9510</td>
+    </tr>
+  <tr>
+    <td>ARMENIA -    DRAM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>480.0000</td>
+    </tr>
+  <tr>
+    <td>AUSTRALIA - DOLLAR</td>
+    <td>1.3440</td>
+    </tr>
+  <tr>
+    <td>AUSTRIA - EURO</td>
+    <td>0.9000</td>
+    </tr>
+  <tr>
+    <td>AZERBAIJAN - NEW MANAT</td>
+    <td>1.6000</td>
+    </tr>
+  <tr>
+    <td>BAHAMAS - DOLLAR</td>
+    <td>1.0000</td>
+    </tr>
+  <tr>
+    <td>BAHRAIN - DINAR</td>
+    <td>0.3770</td>
+    </tr>
+  <tr>
+    <td>BANGLADESH - TAKA</td>
+    <td>79.0000</td>
+    </tr>
+  <tr>
+    <td>BARBADOS - DOLLAR</td>
+    <td>2.0200</td>
+    </tr>
+  <tr>
+    <td>BELARUS - RUBLE</td>
+    <td>20053.0000</td>
+    </tr>
+  <tr>
+    <td>BELGIUM-EURO</td>
+    <td>0.9000</td>
+    </tr>
+  <tr>
+    <td>BELIZE - DOLLAR</td>
+    <td>2.0000</td>
+    </tr>
+  <tr>
+    <td>BENIN - CFA FRANC</td>
+    <td>590.6900</td>
+    </tr>
+  <tr>
+    <td>BERMUDA - DOLLAR</td>
+    <td>1.0000</td>
+    </tr>
+  <tr>
+    <td>BOLIVIA - BOLIVIANO</td>
+    <td>6.8100</td>
+    </tr>
+  <tr>
+    <td>BOSNIA-HERCEGOVINA MARKA</td>
+    <td>1.7610</td>
+    </tr>
+  <tr>
+    <td>BOTSWANA - PULA</td>
+    <td>10.9170</td>
+    </tr>
+  <tr>
+    <td>BRAZIL -    REAL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>3.2420</td>
+    </tr>
+  <tr>
+    <td>BRUNEI - DOLLAR</td>
+    <td>1.3460</td>
+    </tr>
+  <tr>
+    <td>BULGARIA - LEV</td>
+    <td>1.7610</td>
+    </tr>
+  <tr>
+    <td>BURKINA FASO - CFA FRANC</td>
+    <td>590.6900</td>
+    </tr>
+  <tr>
+    <td>BURMA-MYANMAR-KYAT</td>
+    <td>1182.0000</td>
+    </tr>
+  <tr>
+    <td>BURUNDI - FRANC</td>
+    <td>1600.0000</td>
+    </tr>
+  <tr>
+    <td>CAMBODIA (KHMER) - RIEL</td>
+    <td>4103.0000</td>
+    </tr>
+  <tr>
+    <td>CAMEROON - CFA FRANC</td>
+    <td>590.6900</td>
+    </tr>
+  <tr>
+    <td>CANADA - DOLLAR</td>
+    <td>1.2950</td>
+    </tr>
+  <tr>
+    <td>CAPE VERDE - ESCUDO</td>
+    <td>99.1560</td>
+    </tr>
+  <tr>
+    <td>CAYMAN ISLANDS - DOLLAR</td>
+    <td>0.8200</td>
+    </tr>
+  <tr>
+    <td>CENTRAL AFRICAN REPUBLIC - CFA FRANC</td>
+    <td>590.6900</td>
+    </tr>
+  <tr>
+    <td>CHAD - CFA FRANC</td>
+    <td>590.6900</td>
+    </tr>
+  <tr>
+    <td>CHILE - PESO</td>
+    <td>662.7500</td>
+    </tr>
+  <tr>
+    <td>CHINA - RENMINBI</td>
+    <td>6.6430</td>
+    </tr>
+  <tr>
+    <td>COLOMBIA - PESO</td>
+    <td>2911.6900</td>
+    </tr>
+  <tr>
+    <td>COMOROS - FRANC</td>
+    <td>425.5500</td>
+    </tr>
+  <tr>
+    <td>CONGO - CFA FRANC</td>
+    <td>590.6900</td>
+    </tr>
+  <tr>
+    <td>CONGO, DEM. REP - CONGOLESE FRANC</td>
+    <td>965.0000</td>
+    </tr>
+  <tr>
+    <td>COSTA RICA - COLON</td>
+    <td>545.5000</td>
+    </tr>
+  <tr>
+    <td>COTE D'IVOIRE - CFA FRANC</td>
+    <td>590.6900</td>
+    </tr>
+  <tr>
+    <td>CROATIA - KUNA</td>
+    <td>6.6000</td>
+    </tr>
+  <tr>
+    <td>CUBA-PESO</td>
+    <td>1.0000</td>
+    </tr>
+  <tr>
+    <td>CYPRUS-EURO</td>
+    <td>0.9000</td>
+    </tr>
+  <tr>
+    <td>CZECH - KORUNA</td>
+    <td>23.8210</td>
+    </tr>
+  <tr>
+    <td>DENMARK - KRONE</td>
+    <td>6.6970</td>
+    </tr>
+  <tr>
+    <td>DJIBOUTI - FRANC</td>
+    <td>177.0000</td>
+    </tr>
+  <tr>
+    <td>DOMINICAN REPUBLIC - PESO</td>
+    <td>45.8700</td>
+    </tr>
+  <tr>
+    <td>ECUADOR-DOLARES</td>
+    <td>1.0000</td>
+    </tr>
+  <tr>
+    <td>EGYPT - POUND</td>
+    <td>8.8800</td>
+    </tr>
+  <tr>
+    <td>EL SALVADOR-DOLARES</td>
+    <td>1.0000</td>
+    </tr>
+  <tr>
+    <td>EQUATORIAL GUINEA - CFA FRANC</td>
+    <td>590.6900</td>
+    </tr>
+  <tr>
+    <td>ERITREA - NAKFA</td>
+    <td>15.0000</td>
+    </tr>
+  <tr>
+    <td>ESTONIA-EURO</td>
+    <td>0.9000</td>
+    </tr>
+  <tr>
+    <td>ETHIOPIA - BIRR</td>
+    <td>21.7800</td>
+    </tr>
+  <tr>
+    <td>EURO ZONE - EURO</td>
+    <td>0.9000</td>
+    </tr>
+  <tr>
+    <td>FIJI - DOLLAR</td>
+    <td>2.0530</td>
+    </tr>
+  <tr>
+    <td>FINLAND-EURO</td>
+    <td>0.9000</td>
+    </tr>
+  <tr>
+    <td>FRANCE-EURO</td>
+    <td>0.9000</td>
+    </tr>
+  <tr>
+    <td>GABON - CFA FRANC</td>
+    <td>590.6900</td>
+    </tr>
+  <tr>
+    <td>GAMBIA - DALASI</td>
+    <td>43.0000</td>
+    </tr>
+  <tr>
+    <td>GEORGIA-LARI</td>
+    <td>2.3400</td>
+    </tr>
+  <tr>
+    <td>GERMANY FRG-EURO</td>
+    <td>0.9000</td>
+    </tr>
+  <tr>
+    <td>GHANA - CEDI</td>
+    <td>3.9260</td>
+    </tr>
+  <tr>
+    <td>GREECE-EURO</td>
+    <td>0.9000</td>
+    </tr>
+  <tr>
+    <td>GRENADA - EAST CARIBBEAN DOLLAR</td>
+    <td>2.7000</td>
+    </tr>
+  <tr>
+    <td>GUATEMALA - QUENTZAL</td>
+    <td>7.6290</td>
+    </tr>
+  <tr>
+    <td>GUINEA&nbsp; -&nbsp; FRANC</td>
+    <td>8987.0000</td>
+    </tr>
+  <tr>
+    <td>GUINEA BISSAU - CFA FRANC</td>
+    <td>590.6900</td>
+    </tr>
+  <tr>
+    <td>GUYANA - DOLLAR</td>
+    <td>202.0000</td>
+    </tr>
+  <tr>
+    <td>HAITI - GOURDE</td>
+    <td>61.6490</td>
+    </tr>
+  <tr>
+    <td>HONDURAS - LEMPIRA</td>
+    <td>22.5000</td>
+    </tr>
+  <tr>
+    <td>HONG KONG - DOLLAR</td>
+    <td>7.7590</td>
+    </tr>
+  <tr>
+    <td>HUNGARY - FORINT</td>
+    <td>285.3800</td>
+    </tr>
+  <tr>
+    <td>ICELAND - KRONA</td>
+    <td>123.0700</td>
+    </tr>
+  <tr>
+    <td>INDIA - RUPEE</td>
+    <td>67.4000</td>
+    </tr>
+  <tr>
+    <td>INDONESIA - RUPIAH</td>
+    <td>13100.0000</td>
+    </tr>
+  <tr>
+    <td>IRAN - RIAL</td>
+    <td>30100.0000</td>
+    </tr>
+  <tr>
+    <td>IRAQ - DINAR</td>
+    <td>1166.0000</td>
+    </tr>
+  <tr>
+    <td>IRELAND-EURO</td>
+    <td>0.9000</td>
+    </tr>
+  <tr>
+    <td>ISRAEL-SHEKEL</td>
+    <td align="right">3.8480</td>
+    </tr>
+  <tr>
+    <td>ITALY-EURO</td>
+    <td>0.9000</td>
+    </tr>
+  <tr>
+    <td>JAMAICA - DOLLAR</td>
+    <td>125.0000</td>
+    </tr>
+  <tr>
+    <td>JAPAN - YEN</td>
+    <td>102.6600</td>
+    </tr>
+  <tr>
+    <td>JERUSALEM-SHEKEL</td>
+    <td>3.8480</td>
+    </tr>
+  <tr>
+    <td>JORDAN - DINAR</td>
+    <td>0.7080</td>
+    </tr>
+  <tr>
+    <td>KAZAKHSTAN -    TENGE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>338.9000</td>
+    </tr>
+  <tr>
+    <td>KENYA - SHILLING</td>
+    <td>100.9700</td>
+    </tr>
+  <tr>
+    <td>KOREA - WON</td>
+    <td>1149.5900</td>
+    </tr>
+  <tr>
+    <td>KUWAIT - DINAR</td>
+    <td>0.3020</td>
+    </tr>
+  <tr>
+    <td>KYRGYZSTAN - SOM</td>
+    <td>67.2500</td>
+    </tr>
+  <tr>
+    <td>LAOS - KIP</td>
+    <td>8077.0000</td>
+    </tr>
+  <tr>
+    <td>LATVIA - EURO</td>
+    <td>0.9000</td>
+    </tr>
+  <tr>
+    <td>LEBANON - POUND</td>
+    <td>1500.0000</td>
+    </tr>
+  <tr>
+    <td>LESOTHO - SOUTH AFRICAN RAND</td>
+    <td>14.8510</td>
+    </tr>
+  <tr>
+    <td>LIBERIA - U.S. DOLLAR</td>
+    <td>90.0000</td>
+    </tr>
+  <tr>
+    <td>LIBYA-DINAR</td>
+    <td>1.3800</td>
+    </tr>
+  <tr>
+    <td>LITHUANIA - EURO</td>
+    <td>0.9000</td>
+    </tr>
+  <tr>
+    <td>LUXEMBOURG-EURO</td>
+    <td>0.9000</td>
+    </tr>
+  <tr>
+    <td>MACAO - MOP</td>
+    <td>8.0000</td>
+    </tr>
+  <tr>
+    <td>MACEDONIA FYROM - DENAR</td>
+    <td>55.1500</td>
+    </tr>
+  <tr>
+    <td>MADAGASCAR-ARIA</td>
+    <td>3252.8300</td>
+    </tr>
+  <tr>
+    <td>MALAWI - KWACHA</td>
+    <td>721.0000</td>
+    </tr>
+  <tr>
+    <td>MALAYSIA - RINGGIT</td>
+    <td>4.0250</td>
+    </tr>
+  <tr>
+    <td>MALI - CFA FRANC</td>
+    <td>590.6900</td>
+    </tr>
+  <tr>
+    <td>MALTA-EURO</td>
+    <td>0.9000</td>
+    </tr>
+  <tr>
+    <td>MARSHALLS ISLANDS - DOLLAR</td>
+    <td>1.0000</td>
+    </tr>
+  <tr>
+    <td>MARTINIQUE-EURO</td>
+    <td>0.9000</td>
+    </tr>
+  <tr>
+    <td>MAURITANIA - OUGUIYA</td>
+    <td>350.0000</td>
+    </tr>
+  <tr>
+    <td>MAURITIUS - RUPEE</td>
+    <td>35.3600</td>
+    </tr>
+  <tr>
+    <td>MEXICO - NEW    PESO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>18.5800</td>
+    </tr>
+  <tr>
+    <td>MICRONESIA - DOLLAR</td>
+    <td>1.0000</td>
+    </tr>
+  <tr>
+    <td>MOLDOVA - LEU</td>
+    <td>19.8000</td>
+    </tr>
+  <tr>
+    <td>MONGOLIA - TUGRIK</td>
+    <td>1962.5300</td>
+    </tr>
+  <tr>
+    <td>MONTENEGRO-EURO</td>
+    <td>0.9000</td>
+    </tr>
+  <tr>
+    <td>MOROCCO - DIRHAM</td>
+    <td>9.7920</td>
+    </tr>
+  <tr>
+    <td>MOZAMBIQUE - METICAL</td>
+    <td>61.4000</td>
+    </tr>
+  <tr>
+    <td>NAMIBIA-DOLLAR</td>
+    <td>14.8510</td>
+    </tr>
+  <tr>
+    <td>NEPAL - RUPEE</td>
+    <td>108.1500</td>
+    </tr>
+  <tr>
+    <td>NETHERLANDS-EURO</td>
+    <td>0.9000</td>
+    </tr>
+  <tr>
+    <td>NETHERLANDS ANTILLES - GUILDER</td>
+    <td>1.7800</td>
+    </tr>
+  <tr>
+    <td>NEW ZEALAND - DOLLAR</td>
+    <td>1.4070</td>
+    </tr>
+  <tr>
+    <td>NICARAGUA - CORDOBA</td>
+    <td>28.5500</td>
+    </tr>
+  <tr>
+    <td>NIGER - CFA FRANC</td>
+    <td>590.6900</td>
+    </tr>
+  <tr>
+    <td>NIGERIA - NAIRA</td>
+    <td>282.5000</td>
+    </tr>
+  <tr>
+    <td>NORWAY - KRONE</td>
+    <td>8.3850</td>
+    </tr>
+  <tr>
+    <td>OMAN - RIAL</td>
+    <td>0.3850</td>
+    </tr>
+  <tr>
+    <td>PAKISTAN - RUPEE</td>
+    <td>104.6000</td>
+    </tr>
+  <tr>
+    <td>PALAU-DOLLAR</td>
+    <td>1.0000</td>
+    </tr>
+  <tr>
+    <td>PANAMA - BALBOA&nbsp;</td>
+    <td>1.0000</td>
+    </tr>
+  <tr>
+    <td>PAPUA NEW GUINEA - KINA</td>
+    <td>3.1150</td>
+    </tr>
+  <tr>
+    <td>PARAGUAY - GUARANI</td>
+    <td>5622.0000</td>
+    </tr>
+  <tr>
+    <td>PERU - NUEVO SOL</td>
+    <td>3.2760</td>
+    </tr>
+  <tr>
+    <td>PHILIPPINES - PESO</td>
+    <td>47.0530</td>
+    </tr>
+  <tr>
+    <td>POLAND -    ZLOTY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>3.9890</td>
+    </tr>
+  <tr>
+    <td>PORTUGAL-EURO</td>
+    <td>0.9000</td>
+    </tr>
+  <tr>
+    <td>QATAR - RIYAL</td>
+    <td>3.6410</td>
+    </tr>
+  <tr>
+    <td>ROMANIA - LEU</td>
+    <td>4.0710</td>
+    </tr>
+  <tr>
+    <td>RUSSIA - RUBLE</td>
+    <td>64.4180</td>
+    </tr>
+  <tr>
+    <td>RWANDA - FRANC</td>
+    <td>780.0000</td>
+    </tr>
+  <tr>
+    <td>SAO TOME &amp; PRINCIPE - DOBRAS</td>
+    <td>22126.6950</td>
+    </tr>
+  <tr>
+    <td>SAUDI ARABIA - RIYAL</td>
+    <td>3.7500</td>
+    </tr>
+  <tr>
+    <td>SENEGAL - CFA FRANC</td>
+    <td>590.6900</td>
+    </tr>
+  <tr>
+    <td>SERBIA-DINAR</td>
+    <td>111.0700</td>
+    </tr>
+  <tr>
+    <td>SEYCHELLES - RUPEE</td>
+    <td>12.9350</td>
+    </tr>
+  <tr>
+    <td>SIERRA LEONE - LEONE</td>
+    <td>6507.0000</td>
+    </tr>
+  <tr>
+    <td>SINGAPORE - DOLLAR</td>
+    <td>1.3470</td>
+    </tr>
+  <tr>
+    <td>SLOVAK REPUBLIC - EURO</td>
+    <td>0.9000</td>
+    </tr>
+  <tr>
+    <td>SLOVENIA - EURO</td>
+    <td>0.9000</td>
+    </tr>
+  <tr>
+    <td>SOLOMON ISLANDS - DOLLAR</td>
+    <td>7.5470</td>
+    </tr>
+  <tr>
+    <td>SOUTH AFRICA - RAND</td>
+    <td>14.8510</td>
+    </tr>
+  <tr>
+    <td>SOUTH SUDANESE - POUND</td>
+    <td>47.0000</td>
+    </tr>
+  <tr>
+    <td>SPAIN - EURO</td>
+    <td>0.9000</td>
+    </tr>
+  <tr>
+    <td>SRI LANKA - RUPEE</td>
+    <td>145.2000</td>
+    </tr>
+  <tr>
+    <td>ST LUCIA - EC DOLLAR</td>
+    <td>2.7000</td>
+    </tr>
+  <tr>
+    <td>SUDAN - SUDANESE POUND</td>
+    <td>6.6000</td>
+    </tr>
+  <tr>
+    <td>SURINAME - GUILDER</td>
+    <td>7.1410</td>
+    </tr>
+  <tr>
+    <td>SWAZILAND - LILANGENI</td>
+    <td>14.8510</td>
+    </tr>
+  <tr>
+    <td>SWEDEN - KRONA</td>
+    <td>8.4890</td>
+    </tr>
+  <tr>
+    <td>SWITZERLAND - FRANC</td>
+    <td>0.9780</td>
+    </tr>
+  <tr>
+    <td>SYRIA - POUND</td>
+    <td>216.5500</td>
+    </tr>
+  <tr>
+    <td>TAIWAN - DOLLAR</td>
+    <td>32.1710</td>
+    </tr>
+  <tr>
+    <td>TAJIKISTAN - SOMONI</td>
+    <td>7.8000</td>
+    </tr>
+  <tr>
+    <td>TANZANIA - SHILLING</td>
+    <td>2184.0000</td>
+    </tr>
+  <tr>
+    <td>THAILAND - BAHT</td>
+    <td>35.1300</td>
+    </tr>
+  <tr>
+    <td>TIMOR - LESTE DILI</td>
+    <td>1.0000</td>
+    </tr>
+  <tr>
+    <td>TOGO - CFA FRANC</td>
+    <td>590.6900</td>
+    </tr>
+  <tr>
+    <td>TONGA - PA'ANGA</td>
+    <td>2.1140</td>
+    </tr>
+  <tr>
+    <td>TRINIDAD &amp; TOBAGO - DOLLAR</td>
+    <td>6.6500</td>
+    </tr>
+  <tr>
+    <td>TUNISIA - DINAR</td>
+    <td>2.1920</td>
+    </tr>
+  <tr>
+    <td>TURKEY - LIRA</td>
+    <td>2.8810</td>
+    </tr>
+  <tr>
+    <td>TURKMENISTAN - MANAT&nbsp;&nbsp;&nbsp;</td>
+    <td>3.4910</td>
+    </tr>
+  <tr>
+    <td>UGANDA - SHILLING</td>
+    <td>3400.0000</td>
+    </tr>
+  <tr>
+    <td>UKRAINE - HRYVNIA</td>
+    <td>24.8100</td>
+    </tr>
+  <tr>
+    <td>UNITED ARAB EMIRATES - DIRHAM</td>
+    <td>3.6720</td>
+    </tr>
+  <tr>
+    <td>UNITED KINGDOM - POUND STERLING</td>
+    <td>0.7450</td>
+    </tr>
+  <tr>
+    <td>URUGUAY - PESO</td>
+    <td>30.5700</td>
+    </tr>
+  <tr>
+    <td>UZBEKISTAN - SOM</td>
+    <td>2993.0000</td>
+    </tr>
+  <tr>
+    <td>VANUATU - VATU</td>
+    <td>109.1000</td>
+    </tr>
+  <tr>
+    <td>VENEZUELA - BOLIVAR</td>
+    <td>626.0100</td>
+    </tr>
+  <tr>
+    <td>VIETNAM - DONG</td>
+    <td>22281.0000</td>
+    </tr>
+  <tr>
+    <td>WESTERN SAMOA - TALA</td>
+    <td>2.4620</td>
+    </tr>
+  <tr>
+    <td>YEMEN - RIAL</td>
+    <td>250.5000</td>
+    </tr>
+  <tr>
+    <td>ZAMBIA - NEW KWACHA&nbsp;</td>
+    <td>9.8000</td>
+    </tr>
+  <tr>
+    <td>ZAMBIA - KWACHA&nbsp;</td>
+    <td>5455.0000</td>
+    </tr>
+  <tr>
+    <td>ZIMBABWE - DOLLAR</td>
+    <td>1.0000</td>
+    </tr>
+              </table>
+              <br clear="all">
+              <p>Department Of the Treasury<br />
+                Bureau of Fiscal Service<br />
+                Funds Management Division</p>
+            </div>
+            <br class="clrall" />
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
+<div id="footer">
+  <div id="footer_seal"> <img src="/images/footer.png" alt="Bureau of the Fiscal Service"/></div>
+  <div id="footer_inset">
+    <div id="ft_one">
+      <p>Fiscal Service Items</p>
+      <ul>
+        <li><a href="/fsindex.htm">Home</a></li>
+        <li><a href="/fsabout/fs_about.htm">About Us</a></li>
+        <li><a href="/fsprograms/fs_programs.htm">Our Programs</a></li>
+        <li><a href="/fsreports/fs_reports_publications.htm">Reports &amp; Publications</a></li>
+        <li><a href="/fsservices/fs_services.htm">Our Services</a></li>
+        <li><a href="/foia/foia_home.htm">Freedom of Information Act</a></li>
+        <li><a href="/fsnews/fs_news.htm">News</a></li>
+        <li><a href="/fscontact/fs_contact.htm">Contact Us</a></li>
+        <li><a href="/fs_sitemap.htm">Site Map</a></li>
+        <li><a href="/fsabout/accessibility.htm">Accessibility Statement</a></li>
+        <li><a href="/fsabout/fs_privacy.htm">Privacy Policy</a></li>
+        <li><a href="/fsreports/rpt/fspia/fs_pia.htm">Privacy Impact Assessments</a></li>
+      </ul>
+    </div>
+    <div id="ft_two">
+      <ul>
+        <li><a href="/fsfaq/fs_faqs.htm">FAQs</a></li>
+        <li><a href="/fscareers/fs_careers.htm">Careers</a></li>
+        <li><a href="/fs_a_z_index.htm">A-Z Index</a></li>
+        <li><a href="/fs_glossary.htm">Glossary</a></li>
+        <li><a href="/fstraining/fs_training_events.htm">Training &amp; Events</a></li>
+        <li><a href="/fs_related_websites.htm">Related Websites</a></li>
+      </ul>
+    </div>
+    <div id="ft_three">
+      <div class="ft_divider"><img src="/images/divider.jpg" width="5" height="250" alt="" /></div>
+      <p>Fiscal Service Websites</p>
+      <ul>
+        <li><a href="http://www.treasurydirect.gov/">TreasuryDirect.gov</a></li>
+        <li><a href="https://arc.publicdebt.treas.gov/fshome.htm">Administrative Resource Center (ARC)</a></li>
+        <li><a href="http://www.donotpay.treas.gov/">Do Not Pay</a></li>
+      </ul>
+    </div>
+    <div id="ft_four">
+      <div class="ft_divider"><img src="/images/divider.jpg" width="5" height="250" alt="" /></div>
+      <p>Other Treasury Bureaus</p>
+      <ul>
+        <li><a href="http://www.ttb.gov/">The Alcohol and Tobacco Tax and Trade Bureau</a></li>
+        <li><a href="http://www.bep.gov/">Bureau of Engraving &amp; Printing</a></li>
+        <li><a href="http://www.cdfifund.gov/">Community Development Financial Institutions Fund</a></li>
+        <li><a href="http://www.fincen.gov/">Financial Crimes Enforcement Network (FinCen)</a></li>
+        <li><a href="http://www.irs.gov/">Internal Revenue Service</a></li>
+        <li><a href=" http://www.occ.gov/">Office of The Comptroller of the Currency</a></li>
+        <li><a href="http://www.usmint.gov/">U.S. Mint</a></li>
+      </ul>
+    </div>
+    <div id="ft_five">
+      <div class="ft_divider"><img src="/images/divider.jpg" width="5" height="250" alt="" /></div>
+      <p>Other Government Websites</p>
+      <ul>
+        <li><a href="http://www.usa.gov/">USA.gov</a></li>
+        <li><a href="https://www.usajobs.gov/">USAJOBS.gov</a></li>
+        <li><a href="http://www.opm.gov/">OPM.gov</a></li>
+        <li><a href="http://www.mymoney.gov/">MyMoney.gov</a></li>
+        <li><a href="http://www.data.gov/">Data.gov</a></li>
+        <li><a href="http://www.regulations.gov/">Regulations.gov</a></li>
+        <li><a href="http://www.paymentaccuracy.gov/">PaymentAccuracy.gov</a></li>
+        <li><a href="http://business.usa.gov/">BusinessUSA.gov</a></li>
+        <li><a href="http://www.treasury.gov/No-Fear-Act/Pages/default.aspx">No Fear Act</a></li>
+        <!-- li><a href="http://www.recovery.gov">Recovery.gov</a></li -->
+      </ul>
+    </div>
+  </div>
+  <br class="clrall" />
+  <div style=" padding-left:43%; color: #fff; font-size:12px;"><em>Last Updated August  2, 2016</em></div>
+</div>
+<br class="clrall" />
+<div id="subfooter">
+  <div id="subfooter_center">
+    <div id="subfooter_one"> <a href="http://www.treasury.gov/open/Pages/default.aspx"><img src="/images/opengov.png" alt="Open Gov" width="131" height="31" border="0" /></a>&nbsp;&nbsp; <a href="http://www.mymoney.gov/"><img src="/images/mymoney.png" alt="My Money.gov" width="110" height="31" border="0" /></a>&nbsp;&nbsp; <a href="http://www.usa.gov/"><img src="/images/usa.png" alt="USA.gov" width="93" height="31" border="0" /></a>&nbsp;&nbsp; <a href="http://business.usa.gov/"><img src="/images/businessusa.png" alt="Business USA" width="165" height="31" border="0" /></a> </div>
+    <!-- div id="subfooter_two"> <a href="http://www.recovery.gov"><img src="/images/recovery.png" alt="Recover" width="55" height="60" border="0" /></a></div -->
+    <div id="subfooter_three"> <a href="/exit.htm?http://www.facebook.com/readysavegrow"><img src="/images/facebook.png" alt="Facebook" width="31" height="31" border="0" /></a>&nbsp;&nbsp; <a href="/exit.htm?https://twitter.com/FiscalService"><img src="/images/twitter.png" alt="Twitter" width="31" height="31" border="0"/></a>&nbsp;&nbsp; <a href="/exit.htm?http://www.youtube.com/TreasuryDirect"><img src="/images/youtube.png" alt="You Tube" width="31" height="31" border="0" /></a>&nbsp;&nbsp; <a href="http://www.treasurydirect.gov/rss/index.htm"><img src="/images/socialmedia.png" alt="RSS Feed" width="31" height="31" border="0" /></a> </div>
+  </div>
+</div>
+<script type="text/javascript" src="/js/highlightMenu.js"></script> 
+<script type="text/javascript">
+//<![CDATA[
+      var usasearch_config = { siteHandle:"fiscal" };
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+      script.src = "//search.usa.gov/javascripts/remote.loader.js";
+      document.getElementsByTagName("head")[0].appendChild(script);
+
+//]]>
+</script>
+
+    </body>
+</html>
